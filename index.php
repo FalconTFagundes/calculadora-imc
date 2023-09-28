@@ -10,10 +10,10 @@
 <body>
     <form action="">
         digite o peso:
-        <input type="text" name="peso">
+        <input type="text" step=".01" name="peso">
         <br><br>
         digite a altura:
-        <input type="text" name="altura">
+        <input type="text" step=".01" name="altura">
         <br><br>
 
         <input type="submit">
